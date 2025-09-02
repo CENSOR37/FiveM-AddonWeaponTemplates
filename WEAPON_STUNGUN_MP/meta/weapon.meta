@@ -5,16 +5,16 @@
         <Item>
             <WeaponSlots>
                 <Item>
-                    <OrderNumber value="134" />
-                    <Entry>SLOT_STUNGUN_MP</Entry>
+                    <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                    <Entry>SLOT_NAME_HERE</Entry>
                 </Item>
             </WeaponSlots>
         </Item>
         <Item>
             <WeaponSlots>
                 <Item>
-                    <OrderNumber value="99" />
-                    <Entry>SLOT_STUNGUN_MP</Entry>
+                    <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                    <Entry>SLOT_NAME_HERE</Entry>
                 </Item>
             </WeaponSlots>
         </Item>
@@ -22,8 +22,8 @@
     <SlotBestOrder>
         <WeaponSlots>
             <Item>
-                <OrderNumber value="264" />
-                <Entry>SLOT_STUNGUN_MP</Entry>
+                <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                <Entry>SLOT_NAME_HERE</Entry>
             </Item>
         </WeaponSlots>
     </SlotBestOrder>
@@ -38,10 +38,10 @@
         <Item>
             <Infos>
                 <Item type="CWeaponInfo">
-                    <Name>WEAPON_STUNGUN_MP</Name>
-                    <Model>w_pi_stungun</Model>
+                    <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+                    <Model>WEAPON_MODEL_NAME_HERE</Model>
                     <Audio>AUDIO_ITEM_STUNGUN</Audio>
-                    <Slot>SLOT_STUNGUN_MP</Slot>
+                    <Slot>SLOT_NAME_HERE</Slot>
                     <DamageType>ELECTRIC</DamageType>
                     <Explosion>
                         <Default>DONTCARE</Default>
@@ -232,7 +232,7 @@
                     <ReticuleScale value="0.300000" />
                     <ReticuleStyleHash>WEAPON_PISTOL</ReticuleStyleHash>
                     <FirstPersonReticuleStyleHash />
-                    <PickupHash>PICKUP_WEAPON_STUNGUN_MP</PickupHash>
+                    <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
                     <MPPickupHash>PICKUP_AMMO_BULLET_MP</MPPickupHash>
                     <HumanNameHash>WT_STUN</HumanNameHash>
                     <MovementModeConditionalIdle>MMI_1Handed</MovementModeConditionalIdle>
