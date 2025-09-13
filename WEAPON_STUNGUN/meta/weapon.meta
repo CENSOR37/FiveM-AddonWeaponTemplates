@@ -46,7 +46,7 @@
                     </Explosion>
                     <FireType>INSTANT_HIT</FireType>
                     <WheelSlot>WHEEL_PISTOL</WheelSlot>
-                    <Group>GROUP_STUNGUN</Group>
+                    <Group>GROUP_PISTOL</Group>
                     <AmmoInfo ref="AMMO_STUNGUN" />
                     <AimingInfo ref="PISTOL_2H_BASE_STRAFE" />
                     <ClipSize value="2104529083" />
