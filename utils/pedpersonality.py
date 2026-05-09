@@ -52,4 +52,4 @@ for x in myroot:
                         for q in toBeRemoved:
                             w.remove(q)
 
-mytree.write("result.meta", encoding="utf-8", xml_declaration=True, default_namespace=None, method="xml")
+mytree.write("pedpersonality_out.meta", encoding="utf-8", xml_declaration=True, default_namespace=None, method="xml")

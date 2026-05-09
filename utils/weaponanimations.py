@@ -12,4 +12,4 @@ for weapon_animations in root.findall(".//WeaponAnimations"):
         if key != weaponname:
             weapon_animations.remove(item)
 
-tree.write("output.xml")
+tree.write("weaponanimations_out.meta")
