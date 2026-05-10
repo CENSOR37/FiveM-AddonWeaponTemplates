@@ -5,16 +5,16 @@
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="113" />
-          <Entry>SLOT_REVOLVER_MK2</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="133" />
-          <Entry>SLOT_REVOLVER_MK2</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
@@ -22,8 +22,8 @@
   <SlotBestOrder>
     <WeaponSlots>
       <Item>
-        <OrderNumber value="171" />
-        <Entry>SLOT_REVOLVER_MK2</Entry>
+        <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+        <Entry>SLOT_NAME_HERE</Entry>
       </Item>
     </WeaponSlots>
   </SlotBestOrder>
@@ -38,10 +38,10 @@
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
-          <Name>WEAPON_REVOLVER_MK2</Name>
-          <Model>w_pi_revolvermk2</Model>
+          <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+          <Model>WEAPON_MODEL_NAME_HERE</Model>
           <Audio>AUDIO_ITEM_HEAVY_REVOLVER_MK2</Audio>
-          <Slot>SLOT_REVOLVER_MK2</Slot>
+          <Slot>SLOT_NAME_HERE</Slot>
           <DamageType>BULLET</DamageType>
           <Explosion>
             <Default>DONTCARE</Default>
@@ -294,7 +294,7 @@
           <ReticuleScale value="0.300000" />
           <ReticuleStyleHash>WEAPON_PISTOL</ReticuleStyleHash>
           <FirstPersonReticuleStyleHash />
-          <PickupHash>PICKUP_WEAPON_REVOLVER_MK2</PickupHash>
+          <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
           <MPPickupHash>PICKUP_AMMO_BULLET_MP</MPPickupHash>
           <HumanNameHash>WT_REVOLVER2</HumanNameHash>
           <MovementModeConditionalIdle />
